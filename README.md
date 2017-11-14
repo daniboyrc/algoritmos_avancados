@@ -1,10 +1,16 @@
-# algoritmos_avancados
+# Algoritmos Avançados
 
-## Lista III
+### Lista III
+```
 https://a2oj.com/standings?ID=34188
+```
 
-## Lista IV
+### Lista IV
+```
 https://a2oj.com/standings?ID=34330
+```
 
-## Lista V
+### Lista V
+```
 https://a2oj.com/standings?ID=34425
+```
