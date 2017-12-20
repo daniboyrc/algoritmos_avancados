@@ -1,16 +1,9 @@
 # Algoritmos Avançados
 
-### Lista III
-```
-https://a2oj.com/standings?ID=34188
-```
+Repositório para armazenar:
 
-### Lista IV
-```
-https://a2oj.com/standings?ID=34330
-```
+* Listas de questões
+* Questões resolvidas
+* Algoritmos
+* Estratégias de resolução de problemas
 
-### Lista V
-```
-https://a2oj.com/standings?ID=34425
-```
