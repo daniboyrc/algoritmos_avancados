@@ -17,3 +17,6 @@
 
 ### Contabilizado
 1, 3, 6, 7, 9, 10, 11, 12
+
+### Não Contabilizado
+2(pypy)
