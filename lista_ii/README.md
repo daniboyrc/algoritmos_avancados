@@ -14,3 +14,6 @@
 10. [Little Girl and Game](http://codeforces.com/problemset/problem/276/B)
 11. [Add Bricks in The Wall](https://www.urionlinejudge.com.br/judge/en/problems/view/1426)
 12. [The Greater One-digit Number](https://www.urionlinejudge.com.br/judge/en/problems/view/1867)
+
+### Questões submetidas:
+1, 2, 4, 5, 6, 8, 9, 12
