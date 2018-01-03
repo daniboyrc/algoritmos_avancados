@@ -1,3 +1,5 @@
+#https://www.urionlinejudge.com.br/judge/en/problems/view/1221
+
 vezes = int(raw_input())
 for i in xrange(vezes):
     num = int(raw_input())
@@ -13,3 +15,4 @@ for i in xrange(vezes):
         print "Not Prime"
     else:
         print "Prime"
+

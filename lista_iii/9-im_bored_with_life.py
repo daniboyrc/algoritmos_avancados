@@ -1,3 +1,5 @@
+#http://codeforces.com/problemset/problem/822/A
+
 num = map(int, raw_input().split())
 num.sort()
 num = num[0]
