@@ -14,3 +14,6 @@
 10. [Pascal's Triangle](https://www.urionlinejudge.com.br/judge/en/problems/view/2232)
 11. [Pentagon](https://www.urionlinejudge.com.br/judge/en/problems/view/2584)
 12. [Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)
+
+### Contabilizado
+1, 3, 6, 7, 9, 10, 11, 12
