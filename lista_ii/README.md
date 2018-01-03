@@ -15,5 +15,8 @@
 11. [Add Bricks in The Wall](https://www.urionlinejudge.com.br/judge/en/problems/view/1426)
 12. [The Greater One-digit Number](https://www.urionlinejudge.com.br/judge/en/problems/view/1867)
 
-### Questões submetidas:
-1, 2, 4, 5, 6, 8, 9, 12
+### Contabilizado:
+1, 2, 4, 5, 8, 9, 12
+
+### Não Contabilizado:
+6, 7
