@@ -14,3 +14,6 @@
 10. [Rails](https://www.urionlinejudge.com.br/judge/en/problems/view/1062)
 11. [Broken Keyboard](https://www.urionlinejudge.com.br/judge/en/problems/view/1451)
 12. [Hall of Murderers](https://www.urionlinejudge.com.br/judge/en/problems/view/1861)
+
+### Contabilizado
+```2, 6, 8```
