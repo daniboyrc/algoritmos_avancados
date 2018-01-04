@@ -14,3 +14,6 @@
 10. [DZY Loves Chemistry](http://codeforces.com/problemset/problem/445/B)
 11. [Queue](http://codeforces.com/problemset/problem/490/B)
 12. [Dijkstra?](http://codeforces.com/problemset/problem/20/C)
+
+### Contabilizado
+```1, 2, 4, 5, 10```
