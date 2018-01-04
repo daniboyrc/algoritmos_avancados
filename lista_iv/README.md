@@ -1,4 +1,4 @@
-# Lista IV
+#Lista IV
 
 ### Questões:
 
@@ -14,3 +14,6 @@
 10. [Elephant](http://codeforces.com/problemset/problem/617/A)
 11. [Olesya and Rodion](http://codeforces.com/problemset/problem/584/A)
 12. [The number of positions](http://codeforces.com/problemset/problem/124/A)
+
+### Contabilizado
+```1, 3, 4, 7, 8, 10, 11```
