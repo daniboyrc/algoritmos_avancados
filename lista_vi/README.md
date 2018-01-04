@@ -14,3 +14,6 @@
 10. [Is it a tree](http://www.spoj.com/problems/PT07Y/)
 11. [Smart Game](https://www.urionlinejudge.com.br/judge/en/problems/view/1897)
 12. [Escape From Ayutthaya](https://www.urionlinejudge.com.br/judge/en/problems/view/1883)
+
+### Contabilizado
+```6, 7, 8```
