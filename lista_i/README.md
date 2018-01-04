@@ -1,4 +1,5 @@
-# Lista I
+#
+Lista I
 
 ### Questões:
 1. [Queen](https://www.urionlinejudge.com.br/judge/en/problems/view/1087)
@@ -18,4 +19,4 @@
 ```1, 4, 5, 6```
 
 ### Não Contabilizado:
-```2, 10, 11```
+```2, 10, 11, 12```
