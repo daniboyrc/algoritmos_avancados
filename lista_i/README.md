@@ -1,5 +1,4 @@
-#
-Lista I
+# Lista I
 
 ### Questões:
 1. [Queen](https://www.urionlinejudge.com.br/judge/en/problems/view/1087)
