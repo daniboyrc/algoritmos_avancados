@@ -17,3 +17,6 @@
 
 ### Contabilizado
 ```1, 3, 4, 7, 8, 10, 11```
+
+### Não Contabilizado
+```12```
