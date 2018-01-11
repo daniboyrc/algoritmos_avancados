@@ -8,7 +8,7 @@ Repositório para armazenar:
 * Estratégias de resolução de problemas
 
 ## Quantidade de questões feitas
- * Lista 1 - 9/12
+ * Lista 1 - 11/12
  * Lista 2 - 10/12
  * Lista 3 - 10/12
  * Lista 4 - 9/12
