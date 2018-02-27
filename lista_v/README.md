@@ -19,4 +19,4 @@
 ```2, 6, 8```
 
 ### Não Contabilizado
-```1(runtime)```
+```1```
