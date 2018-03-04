@@ -15,4 +15,4 @@ Repositório para armazenar:
  * Lista 5 - 5/12
  * Lista 6 - 3/12
  * Lista 7 - 6/12
- * **Total - 53/84**
+ * **Total - 55/84**
