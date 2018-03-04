@@ -8,3 +8,6 @@
 4. [Cut Ribbon](http://codeforces.com/problemset/problem/189/A)
 5. [Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)
 6. [Alternative Thinking](http://codeforces.com/problemset/problem/603/A)
+
+### Contabilizado
+```1```
