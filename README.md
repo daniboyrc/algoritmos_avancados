@@ -15,4 +15,5 @@ Repositório para armazenar:
  * Lista 5 - 5/12
  * Lista 6 - 3/12
  * Lista 7 - 6/12
+ * Contest 1 - 2/6
  * **Total - 55/84**
