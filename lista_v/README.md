@@ -16,7 +16,7 @@
 12. [Hall of Murderers](https://www.urionlinejudge.com.br/judge/en/problems/view/1861)
 
 ### Contabilizado
-```2, 6, 8```
+```2, 6, 7, 8```
 
 ### Não Contabilizado
 ```1```
