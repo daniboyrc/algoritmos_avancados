@@ -13,4 +13,5 @@
 9. [O Mar não está para Peixe](https://www.urionlinejudge.com.br/judge/en/problems/view/2393)
 10. [Setas](https://www.urionlinejudge.com.br/judge/en/problems/view/2458)
 
-### Não
+### Não contabilizado
+```4```

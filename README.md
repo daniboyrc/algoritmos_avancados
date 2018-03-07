@@ -15,6 +15,6 @@ Repositório para armazenar:
  * Lista 5 - 5/12
  * Lista 6 - 3/12
  * Lista 7 - 6/12
- * Lista 8 - 0/10
- * Lista 9 - 2/6
- * **Total - 55/84**
+ * Lista 8 - 1/10
+ * Lista 9 - 2/9
+ * **Total - 56/103**
